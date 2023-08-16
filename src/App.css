@@ -1,0 +1,13 @@
+.nav-link a {
+  text-decoration: none;
+  color: #000;
+  padding: 0 15px;
+}
+.logo img {
+  width: 130px;
+}
+.navbar {
+  background: #f8f8f8;
+  box-shadow: 0px 12px 29px 1px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+}
